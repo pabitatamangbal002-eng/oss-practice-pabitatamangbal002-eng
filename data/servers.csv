@@ -1,0 +1,5 @@
+server,role,os,uptime_days
+web-01,web,Ubuntu,210
+db-01,database,Debian,340
+backup-01,backup,Rocky,150
+dns-01,dns,Ubuntu,400
